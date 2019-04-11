@@ -23,6 +23,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.3",
     "typescript": "^3.4.3"
   }
 }
